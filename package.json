@@ -1,0 +1,23 @@
+{
+  "name": "tesla-charge-watch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/W4G1/tesla-charge-watch.git"
+  },
+  "author": "Walter van der Giessen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/W4G1/tesla-charge-watch/issues"
+  },
+  "homepage": "https://github.com/W4G1/tesla-charge-watch#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "tesla-api": "^2.0.4"
+  }
+}

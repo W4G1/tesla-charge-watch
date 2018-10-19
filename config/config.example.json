@@ -1,0 +1,9 @@
+{
+	"email": "MyTesla Email",
+	"password": "MyTesla Password",
+	"monitoring_schedule": {
+		"enabled": true,
+		"start_at": "23",
+		"stop_at": "7"
+	}
+}
